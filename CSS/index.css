@@ -13,7 +13,7 @@ a{
     color: #815f3c;
     text-decoration: none;
 }
-img{
+img.eu{
     width: 150px;
     height: 150px;
     border-radius: 50%;
@@ -40,4 +40,9 @@ p{
 }
 h2{
     color: #815f3c;
+}
+img{
+    width: 450px;
+    height: 300px;
+    border: 5px solid #815f3c;
 }
